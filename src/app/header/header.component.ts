@@ -4,7 +4,7 @@ import { languages, notifications, userItems } from './header-dummy-data';
 @Component({
   selector: 'app-header',
   templateUrl: './header.component.html',
-  styleUrls: ['./header.component.scss']
+  styleUrls: ['./header.component.scss', './header.componentP2.scss']
 })
 export class HeaderComponent implements OnInit {
 
